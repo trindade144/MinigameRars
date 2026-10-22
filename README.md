@@ -1,8 +1,9 @@
 # MinigameRars
-Repositório criado para a confecção do jogo do de Introdução a Sistemas Computacionais.
+Repositório criado para a confecção do jogo de Introdução a Sistemas Computacionais.
 
 Estrutura do Projeto
-isaac/
+```
+MinigameRars/
 │
 ├── main.s ........................ ÚNICO arquivo que você executa no RARS
 │                                   (dá os .include em tudo e tem o loop principal)
@@ -44,3 +45,4 @@ isaac/
 │
 └── docs/
     └── artigo/ ................... artigo em PDF (não entra no jogo)
+```
